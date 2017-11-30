@@ -1,7 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import asyncio
-from aiohttp import ClientSession
 
 class crawlerDOU:
     def __init__(self):
